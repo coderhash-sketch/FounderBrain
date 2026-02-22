@@ -1,14 +1,14 @@
-# 🚀 VentureCompass
+# 🚀 FounderBrain
 
-VentureCompass is an intelligent startup idea evaluation platform designed to help founders validate, stress-test, and refine their business ideas before execution.
+FounderBrain is an intelligent startup idea evaluation platform designed to help founders validate, stress-test, and refine their business ideas before execution.
 
 It acts as a strategic thinking assistant — analyzing risk, monetization, competition, scalability, and founder bias in a structured and actionable way.
 
 ---
 
-## 🌟 What VentureCompass Does
+## 🌟 What FounderBrain Does
 
-VentureCompass helps founders:
+FounderBrain helps founders:
 
 - 📊 Evaluate innovation and business viability
 - ⚠️ Identify key risks and weaknesses
@@ -60,24 +60,13 @@ Provides correction strategies to improve strategic clarity.
 
 ## 🎨 UI & Experience
 
-VentureCompass features a modern startup-grade interface:
+FounderBrain features a modern startup-grade interface:
 
 - Dark blue + light blue + white theme
 - Structured dashboard cards
 - Clean data presentation
 - Strategic intelligence feel
 - Built to resemble a future unicorn SaaS product
-
----
-
-## ⚙️ Tech Stack
-
-- React
-- Vite
-- TypeScript
-- TailwindCSS
-- Modern UI components
-- Structured AI-based analysis engine
 
 ---
 
@@ -93,13 +82,13 @@ VentureCompass features a modern startup-grade interface:
 
 ## 🚀 Vision
 
-VentureCompass aims to become the go-to pre-execution validation tool for founders — helping them think clearer, move smarter, and reduce avoidable startup failure.
+FounderBrain aims to become the go-to pre-execution validation tool for founders — helping them think clearer, move smarter, and reduce avoidable startup failure.
 
 ---
 
 ## 📌 Disclaimer
 
-VentureCompass provides strategic insights for guidance purposes only. Final business decisions remain the responsibility of the founder.
+FounderBrain provides strategic insights for guidance purposes only. Final business decisions remain the responsibility of the founder.
 
 ---
 
